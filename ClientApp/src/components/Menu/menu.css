@@ -1,0 +1,73 @@
+#menu {
+  background-color: white;
+}
+
+.Logo {
+  justify-content: center;
+}
+
+.row {
+  margin: auto;
+  width: 100%;
+}
+
+.NpagBtn {
+  color: white;
+  background-color: #7128a1;
+  border: 10px;
+  border-radius: 1vh;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.NpagBtn:hover {
+  background-color: #601870;
+}
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+.arasaacCopyR {
+  padding: 1px;
+  font-size: 0.7em;
+}
+
+.grid-container {
+  margin-bottom: 10px;
+  background-color: rgb(255, 255, 255);
+}
+
+.grid-container>div {
+  background-color: gainsboro;
+  font-size: 1em;
+}
+
+.button {
+  color: #fff;
+  background-color: rgba(113, 40, 161, 0.8) !important;
+  border-color: #f64c72 !important;
+  margin-left: 100px;
+  border-radius: 1vh;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section {
+  background-color: gainsboro;
+  font-size: 1em;
+}
+
+#newPaginaButton {
+  /*! align-items: center; */
+  margin: auto;
+}
+
+textarea {
+  overflow: hidden;
+  resize: none;
+  border-width: 0;
+  width: 156px;
+}

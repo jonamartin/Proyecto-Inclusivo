@@ -1,0 +1,50 @@
+button {
+  -webkit-appearance: button;
+  -webkit-writing-mode: horizontal-tb !important;
+  text-align: center;
+  align-items: center;
+  cursor: default;
+  background-color: transparent;
+  box-sizing: border-box;
+  margin: 0em;
+  padding: 1px 6px;
+  border-width: 0px;
+  border-style: outset;
+  border-color: transparent;
+  border-image: initial;
+}
+
+
+.bimg {
+  /*width: 175px;*/
+  height: 80px;
+}
+
+.secciones {
+  background-color: rgba(113, 40, 161, 0.8) !important;
+  color: white !important;
+  height: auto;
+  width: 100%;
+  border-radius: 5px;
+  font-size: 16px;
+  -webkit-box-shadow: 2px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 2px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 1px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.Pagina {
+  justify-content: center;
+  height: auto;
+  width: 100%;
+  -webkit-box-shadow: 2px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 2px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 1px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.text-center {
+  color: black;
+}
+
+input::placeholder {
+  color: aliceblue;
+}
