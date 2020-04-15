@@ -1,0 +1,13 @@
+{
+  "paginas": [
+      {
+        "platos": [
+            {
+              "picPlato": "",
+              "numIngredientes": 0,
+              "picsIngredientes": ["","","","","",""]
+            }
+          ]
+      }
+    ]
+}
